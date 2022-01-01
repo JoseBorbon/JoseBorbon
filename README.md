@@ -2,7 +2,9 @@ I am a Full Stack Software Engineer studying at Pursuit, which is an intensive 1
 
 Skills: JavaScript, TypeScript, Express, React/Redux, PosgreSQL, HTML, CSS, Node.js, APIs, VCS, Git, Github, CLI, Unit Testing, Data Structures, Algorithms, Sprints, Agile, code reviews, and pair programming.
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=JoseBorbon)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseBorbon)](https://github.com/JoseBorbon/github-readme-stats)
+
+<!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=JoseBorbon)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
 
 <!---
